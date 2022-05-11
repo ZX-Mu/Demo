@@ -1,0 +1,25 @@
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 6px;
+}
+/* 滚动条的滑块 */
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: block;
+  margin: 4px 0;
+  text-align: left;
+}
+
+.font-bolder{
+  font-weight: bolder;
+}
+
