@@ -11,21 +11,21 @@
 
 ### 2. 本地打包运行
 #### web
-> 运行：npm start 或 npm run serve
+> 运行：`npm start` 或 `npm run serve`
 >
-> 打包：npm run build
+> 打包：`npm run build`
 
 #### 桌面(electron)
 
-> 运行：npm run serve:electron
+> 运行：`npm run serve:electron`
 >
-> 当前环境打包：npm run build:electron
+> 当前环境打包：`npm run build:electron`
 >
-> Mac环境打包：npm run build:electron:mac
+> Mac环境打包：`npm run build:electron:mac`
 >
-> Windows 32位环境打包：npm run build:electron:win32
+> Windows 32位环境打包：`npm run build:electron:win32`
 >
-> Windows 64位环境打包：npm run build:electron:win64
+> Windows 64位环境打包：`npm run build:electron:win64`
 
 
 ### 3. 本地访问
