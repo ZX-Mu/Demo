@@ -42,3 +42,8 @@
 > 镜像：docker-build.sh 中为docker编译命令【 注意Mac下 inter和M1 编译命令不同 】
 
 
+我的本地环境说明
+> Mac OS(M1)12.4
+> node v16.15.1
+> npm 8.11.0
+
